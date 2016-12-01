@@ -35,7 +35,7 @@ Práctica: Configuración de servidores GNU/Linux
         * ``www.josedom.gonzalonazareno.org``
         * ``informatica.josedom.gonzalonazareno.org``
 
-    * El servidor de base de datos va a estar instalado en ``silvestre.josedom.gonzalonazareno.org``
+    * El servidor de base de datos va a estar instalado en ``homer.josedom.gonzalonazareno.org``
 
 
 Servidor DNS
