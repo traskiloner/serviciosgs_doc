@@ -5,7 +5,7 @@ Caso 3: Envío de correo desde usuarios del servidor a correos de internet
 
 En el caso de la configuración de nuestra red del insitituto sólo puede enviar correo el servidor de correo de babuino. Por lo tanto tenemos que configurar nuestro servidor para que utilice a babuino como relay para enviar nuestros correos, para ello, modificamos la siguiente directiva en el fichero de configuración::
 
-	ralayhost = babuino.gonzalonazareno.org
+	relayhost = babuino.gonzalonazareno.org
 
 **DESDE CASA**
 
